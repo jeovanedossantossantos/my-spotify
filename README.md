@@ -9,7 +9,7 @@ yarn add styled-components
 App feito para o formato web<br/>
 <img width="600px" src="/img/1.png"/><br/>
 e também para mobil com tecnologia PWA 
-<img src="/img/2.png"><img src="/img/3.png">
+<img src="/img/2.jpeg"><img src="/img/3.jpeg">
 
 # O que significa PWA?
 Surgido como um novo modelo de desenvolvimento de software, o Progressive Web App (PWA) transforma os navegadores (páginas web) em verdadeiras plataformas de apps!
