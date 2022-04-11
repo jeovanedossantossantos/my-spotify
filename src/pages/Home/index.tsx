@@ -6,7 +6,7 @@ import Footer from "../../components/Footer";
 
 function Home() {
   return (
-    <div style={{overflowY: "auto",height:"100vh"}}>
+    <div >
       <Header />
       <Banner />
       <Footer />

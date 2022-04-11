@@ -4,6 +4,7 @@ import { Main, Titulo } from "./style";
 
 function Banner() {
   return (
+    <>
     <Main id="banner">
       <Titulo>
         Escutar muda <br />
@@ -17,6 +18,7 @@ function Banner() {
         <Button text="Baixe o Spotify FREE" background="#1ED760" color='#2941AB' />
       </div>
     </Main>
+    </>
   );
 }
 
