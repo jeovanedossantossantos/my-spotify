@@ -1,5 +1,5 @@
 # Acesse o site
-<a href="https://meu-spotify.herokuapp.com/">Clique aqui</a>
+<a href="https://my-spotify-eosin.vercel.app/">Clique aqui</a>
 # Criando o Projeto
 npx create-react-app spotify-clone --template typescript
 # O que são os components?
