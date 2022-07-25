@@ -12,6 +12,8 @@ App feito para o formato web<br/>
 <img width="600px" src="/img/1.png"/><br/>
 e também para mobil com tecnologia PWA <br/>
 <img width="300px" src="/img/2.jpeg"><br/><img width="300px" src="/img/3.jpeg">
+
+Atualizanndo...
 <!--
 # O que significa PWA?
 Surgido como um novo modelo de desenvolvimento de software, o Progressive Web App (PWA) transforma os navegadores (páginas web) em verdadeiras plataformas de apps!
